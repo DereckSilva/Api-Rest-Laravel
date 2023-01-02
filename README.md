@@ -37,7 +37,7 @@ Antes de começar, instale o git na sua máquina e clone o repositório:
 
 ### API
 
-<h4>Os testes no desenvolvimento da API foram feitos pela ferramente Thunder Client. Extensão do VSCODE.<h4>
+<h4>Os testes no desenvolvimento da API foram feitos pela ferramenta Thunder Client. Extensão do VScode.<h4>
 
 ### Tecnologias
 <span id="doc"></span>
