@@ -2,14 +2,6 @@
 <div align="center">
 <h1>API REST Laravel</h1>
 </div>
-<div align="center">
-<h1 >O que é o projeto <img src="https://cdn-icons-png.flaticon.com/32/3850/3850203.png"></h1>
-</div>
-<div>
-<h4 align="center"> 
-	Projeto construído para o processo seletivo na empresa Teamsoft
-</h4>
-</div>
 
 ### Objetivo
 
